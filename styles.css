@@ -52,9 +52,7 @@
 
 .img1:hover{
     position: relative;
-    /*width: 300px;
-    height: 240px; 
-    z-index: 0;*/
+   
     top: 110px;
     transform: scale(2,1);
     /* transform: translate(0px, 110px);  */
